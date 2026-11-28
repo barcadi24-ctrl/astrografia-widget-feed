@@ -1,0 +1,13 @@
+{
+ "zones": {
+  "new-york": "America/New_York",
+  "chicago": "America/Chicago",
+  "denver": "America/Denver",
+  "phoenix": "America/Phoenix",
+  "los-angeles": "America/Los_Angeles",
+  "anchorage": "America/Anchorage",
+  "honolulu": "Pacific/Honolulu",
+  "london": "Europe/London"
+ },
+ "updated_utc": "2026-11-28 16:47"
+}
